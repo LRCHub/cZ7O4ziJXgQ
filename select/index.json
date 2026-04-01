@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "死線",
+  "base_artist": "獅子志司",
+  "createdAt": "2026-04-01T00:32:50.697836Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死線",
+      "artist": "獅子志司",
+      "has_synced": false,
+      "path": "select/pl_01_死線_獅子志司.txt"
+    }
+  ]
+}
